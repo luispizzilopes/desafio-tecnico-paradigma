@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="Interfaces\Validators\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\DesafioTecnicoParadigma.BuildingBlocks\DesafioTecnicoParadigma.BuildingBlocks.csproj" />
+      <ProjectReference Include="..\DesafioTecnicoParadigma.Domain\DesafioTecnicoParadigma.Domain.csproj" />
+    </ItemGroup>
+
+</Project>

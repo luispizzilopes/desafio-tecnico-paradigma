@@ -1,0 +1,15 @@
+/Users/luis/Desktop/Repositorios Pessoais/desafio-tecnico-paradigma/desafio-tecnico-paradigma-task-2/DesafioTecnicoParadigma/DesafioTecnicoParadigma/bin/Debug/net8.0/DesafioTecnicoParadigma
+/Users/luis/Desktop/Repositorios Pessoais/desafio-tecnico-paradigma/desafio-tecnico-paradigma-task-2/DesafioTecnicoParadigma/DesafioTecnicoParadigma/bin/Debug/net8.0/DesafioTecnicoParadigma.deps.json
+/Users/luis/Desktop/Repositorios Pessoais/desafio-tecnico-paradigma/desafio-tecnico-paradigma-task-2/DesafioTecnicoParadigma/DesafioTecnicoParadigma/bin/Debug/net8.0/DesafioTecnicoParadigma.runtimeconfig.json
+/Users/luis/Desktop/Repositorios Pessoais/desafio-tecnico-paradigma/desafio-tecnico-paradigma-task-2/DesafioTecnicoParadigma/DesafioTecnicoParadigma/bin/Debug/net8.0/DesafioTecnicoParadigma.dll
+/Users/luis/Desktop/Repositorios Pessoais/desafio-tecnico-paradigma/desafio-tecnico-paradigma-task-2/DesafioTecnicoParadigma/DesafioTecnicoParadigma/bin/Debug/net8.0/DesafioTecnicoParadigma.pdb
+/Users/luis/Desktop/Repositorios Pessoais/desafio-tecnico-paradigma/desafio-tecnico-paradigma-task-2/DesafioTecnicoParadigma/DesafioTecnicoParadigma/obj/Debug/net8.0/DesafioTecnicoParadigma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luis/Desktop/Repositorios Pessoais/desafio-tecnico-paradigma/desafio-tecnico-paradigma-task-2/DesafioTecnicoParadigma/DesafioTecnicoParadigma/obj/Debug/net8.0/DesafioTecnicoParadigma.AssemblyInfoInputs.cache
+/Users/luis/Desktop/Repositorios Pessoais/desafio-tecnico-paradigma/desafio-tecnico-paradigma-task-2/DesafioTecnicoParadigma/DesafioTecnicoParadigma/obj/Debug/net8.0/DesafioTecnicoParadigma.AssemblyInfo.cs
+/Users/luis/Desktop/Repositorios Pessoais/desafio-tecnico-paradigma/desafio-tecnico-paradigma-task-2/DesafioTecnicoParadigma/DesafioTecnicoParadigma/obj/Debug/net8.0/DesafioTecnicoParadigma.csproj.CoreCompileInputs.cache
+/Users/luis/Desktop/Repositorios Pessoais/desafio-tecnico-paradigma/desafio-tecnico-paradigma-task-2/DesafioTecnicoParadigma/DesafioTecnicoParadigma/obj/Debug/net8.0/DesafioTecnicoParadigma.sourcelink.json
+/Users/luis/Desktop/Repositorios Pessoais/desafio-tecnico-paradigma/desafio-tecnico-paradigma-task-2/DesafioTecnicoParadigma/DesafioTecnicoParadigma/obj/Debug/net8.0/DesafioTecnicoParadigma.dll
+/Users/luis/Desktop/Repositorios Pessoais/desafio-tecnico-paradigma/desafio-tecnico-paradigma-task-2/DesafioTecnicoParadigma/DesafioTecnicoParadigma/obj/Debug/net8.0/refint/DesafioTecnicoParadigma.dll
+/Users/luis/Desktop/Repositorios Pessoais/desafio-tecnico-paradigma/desafio-tecnico-paradigma-task-2/DesafioTecnicoParadigma/DesafioTecnicoParadigma/obj/Debug/net8.0/DesafioTecnicoParadigma.pdb
+/Users/luis/Desktop/Repositorios Pessoais/desafio-tecnico-paradigma/desafio-tecnico-paradigma-task-2/DesafioTecnicoParadigma/DesafioTecnicoParadigma/obj/Debug/net8.0/DesafioTecnicoParadigma.genruntimeconfig.cache
+/Users/luis/Desktop/Repositorios Pessoais/desafio-tecnico-paradigma/desafio-tecnico-paradigma-task-2/DesafioTecnicoParadigma/DesafioTecnicoParadigma/obj/Debug/net8.0/ref/DesafioTecnicoParadigma.dll

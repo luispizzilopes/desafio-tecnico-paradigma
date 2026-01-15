@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DesafioTecnicoParadigma.Application/1.0.0": {
+        "dependencies": {
+          "DesafioTecnicoParadigma.BuildingBlocks": "1.0.0",
+          "DesafioTecnicoParadigma.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DesafioTecnicoParadigma.Application.dll": {}
+        }
+      },
+      "DesafioTecnicoParadigma.BuildingBlocks/1.0.0": {
+        "runtime": {
+          "DesafioTecnicoParadigma.BuildingBlocks.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DesafioTecnicoParadigma.Domain/1.0.0": {
+        "runtime": {
+          "DesafioTecnicoParadigma.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesafioTecnicoParadigma.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesafioTecnicoParadigma.BuildingBlocks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesafioTecnicoParadigma.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
