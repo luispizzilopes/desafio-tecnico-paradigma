@@ -30,10 +30,75 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "/Users/luis/Desktop/Repositorios Pessoais/desafio-tecnico-paradigma/desafio-tecnico-paradigma-task-2/DesafioTecnicoParadigma/DesafioTecnicoParadigma.BuildingBlocks/DesafioTecnicoParadigma.BuildingBlocks.csproj": {
+                "projectPath": "/Users/luis/Desktop/Repositorios Pessoais/desafio-tecnico-paradigma/desafio-tecnico-paradigma-task-2/DesafioTecnicoParadigma/DesafioTecnicoParadigma.BuildingBlocks/DesafioTecnicoParadigma.BuildingBlocks.csproj"
+              },
               "/Users/luis/Desktop/Repositorios Pessoais/desafio-tecnico-paradigma/desafio-tecnico-paradigma-task-2/DesafioTecnicoParadigma/DesafioTecnicoParadigma.Domain/DesafioTecnicoParadigma.Domain.csproj": {
                 "projectPath": "/Users/luis/Desktop/Repositorios Pessoais/desafio-tecnico-paradigma/desafio-tecnico-paradigma-task-2/DesafioTecnicoParadigma/DesafioTecnicoParadigma.Domain/DesafioTecnicoParadigma.Domain.csproj"
               }
             }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/luis/Desktop/Repositorios Pessoais/desafio-tecnico-paradigma/desafio-tecnico-paradigma-task-2/DesafioTecnicoParadigma/DesafioTecnicoParadigma.BuildingBlocks/DesafioTecnicoParadigma.BuildingBlocks.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/luis/Desktop/Repositorios Pessoais/desafio-tecnico-paradigma/desafio-tecnico-paradigma-task-2/DesafioTecnicoParadigma/DesafioTecnicoParadigma.BuildingBlocks/DesafioTecnicoParadigma.BuildingBlocks.csproj",
+        "projectName": "DesafioTecnicoParadigma.BuildingBlocks",
+        "projectPath": "/Users/luis/Desktop/Repositorios Pessoais/desafio-tecnico-paradigma/desafio-tecnico-paradigma-task-2/DesafioTecnicoParadigma/DesafioTecnicoParadigma.BuildingBlocks/DesafioTecnicoParadigma.BuildingBlocks.csproj",
+        "packagesPath": "/Users/luis/.nuget/packages/",
+        "outputPath": "/Users/luis/Desktop/Repositorios Pessoais/desafio-tecnico-paradigma/desafio-tecnico-paradigma-task-2/DesafioTecnicoParadigma/DesafioTecnicoParadigma.BuildingBlocks/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/luis/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://fcxlabs-git.ferreiracosta.com/api/v4/projects/734/packages/nuget/index.json": {},
+          "https://fcxlabs-git.ferreiracosta.com/api/v4/projects/737/packages/nuget/index.json": {},
+          "https://fcxlabs-git.ferreiracosta.com/api/v4/projects/747/packages/nuget/index.json": {},
+          "https://fcxlabs-git.ferreiracosta.com/api/v4/projects/755/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
           }
         },
         "warningProperties": {

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioTecnicoParadigma.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8361763568352fd542ebc956a54d9e79a271225e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4ba4d315190cc3eb2269416cf22f0ad8e2e742b")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioTecnicoParadigma.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioTecnicoParadigma.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

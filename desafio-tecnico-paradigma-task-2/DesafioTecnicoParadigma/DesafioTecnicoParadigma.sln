@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioTecnicoParadigma.Dom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioTecnicoParadigma.IoC", "DesafioTecnicoParadigma.IoC\DesafioTecnicoParadigma.IoC.csproj", "{6071C844-F6AE-4B38-8D36-9AEE7B6AFC95}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BuildingBlocks", "BuildingBlocks", "{D4AE29E6-9BBD-42BE-992A-97BA18B9DFCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioTecnicoParadigma.BuildingBlocks", "DesafioTecnicoParadigma.BuildingBlocks\DesafioTecnicoParadigma.BuildingBlocks.csproj", "{1F3E77D9-EE0E-4854-854F-4F04E74A44BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,12 @@ Global
 		{6071C844-F6AE-4B38-8D36-9AEE7B6AFC95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6071C844-F6AE-4B38-8D36-9AEE7B6AFC95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6071C844-F6AE-4B38-8D36-9AEE7B6AFC95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F3E77D9-EE0E-4854-854F-4F04E74A44BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F3E77D9-EE0E-4854-854F-4F04E74A44BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F3E77D9-EE0E-4854-854F-4F04E74A44BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F3E77D9-EE0E-4854-854F-4F04E74A44BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1F3E77D9-EE0E-4854-854F-4F04E74A44BF} = {D4AE29E6-9BBD-42BE-992A-97BA18B9DFCF}
 	EndGlobalSection
 EndGlobal

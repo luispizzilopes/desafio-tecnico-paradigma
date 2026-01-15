@@ -16,3 +16,5 @@
 /Users/luis/Desktop/Repositorios Pessoais/desafio-tecnico-paradigma/desafio-tecnico-paradigma-task-2/DesafioTecnicoParadigma/DesafioTecnicoParadigma.IoC/obj/Debug/net8.0/refint/DesafioTecnicoParadigma.IoC.dll
 /Users/luis/Desktop/Repositorios Pessoais/desafio-tecnico-paradigma/desafio-tecnico-paradigma-task-2/DesafioTecnicoParadigma/DesafioTecnicoParadigma.IoC/obj/Debug/net8.0/DesafioTecnicoParadigma.IoC.pdb
 /Users/luis/Desktop/Repositorios Pessoais/desafio-tecnico-paradigma/desafio-tecnico-paradigma-task-2/DesafioTecnicoParadigma/DesafioTecnicoParadigma.IoC/obj/Debug/net8.0/ref/DesafioTecnicoParadigma.IoC.dll
+/Users/luis/Desktop/Repositorios Pessoais/desafio-tecnico-paradigma/desafio-tecnico-paradigma-task-2/DesafioTecnicoParadigma/DesafioTecnicoParadigma.IoC/bin/Debug/net8.0/DesafioTecnicoParadigma.BuildingBlocks.dll
+/Users/luis/Desktop/Repositorios Pessoais/desafio-tecnico-paradigma/desafio-tecnico-paradigma-task-2/DesafioTecnicoParadigma/DesafioTecnicoParadigma.IoC/bin/Debug/net8.0/DesafioTecnicoParadigma.BuildingBlocks.pdb

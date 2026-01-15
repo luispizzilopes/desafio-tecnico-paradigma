@@ -26,10 +26,19 @@
       },
       "DesafioTecnicoParadigma.Application/1.0.0": {
         "dependencies": {
+          "DesafioTecnicoParadigma.BuildingBlocks": "1.0.0",
           "DesafioTecnicoParadigma.Domain": "1.0.0"
         },
         "runtime": {
           "DesafioTecnicoParadigma.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DesafioTecnicoParadigma.BuildingBlocks/1.0.0": {
+        "runtime": {
+          "DesafioTecnicoParadigma.BuildingBlocks.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -59,6 +68,11 @@
       "hashPath": "microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
     },
     "DesafioTecnicoParadigma.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesafioTecnicoParadigma.BuildingBlocks/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

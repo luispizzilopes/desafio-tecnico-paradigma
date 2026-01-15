@@ -1,5 +1,6 @@
 using DesafioTecnicoParadigma.Application.Dtos.BuilderTreeDtos;
 using DesafioTecnicoParadigma.Application.Interfaces.Validators.BuilderTreeValidator;
+using DesafioTecnicoParadigma.BuildingBlocks.Common;
 
 namespace DesafioTecnicoParadigma.Application.Validators.BuilderTreeValidator;
 

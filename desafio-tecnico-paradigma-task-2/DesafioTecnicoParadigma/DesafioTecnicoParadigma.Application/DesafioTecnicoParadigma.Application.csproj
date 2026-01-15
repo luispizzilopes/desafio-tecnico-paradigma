@@ -11,6 +11,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\DesafioTecnicoParadigma.BuildingBlocks\DesafioTecnicoParadigma.BuildingBlocks.csproj" />
       <ProjectReference Include="..\DesafioTecnicoParadigma.Domain\DesafioTecnicoParadigma.Domain.csproj" />
     </ItemGroup>
 
